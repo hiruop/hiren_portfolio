@@ -5,3 +5,7 @@ theme: jekyll-theme-minimal
 show_downloads: false
 hide_downloads : true
 download_rmd: false
+style: |
+  .logo {
+    margin-left: 10px; /* Adjust the value as needed */
+  }
