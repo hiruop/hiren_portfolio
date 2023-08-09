@@ -47,7 +47,7 @@
 
 ## Projects
 
-### LEGO [View🔗](https://public.tableau.com/app/profile/smit.rana6369/viz/LEGO_16900338877770/Dashboard1)
+### LEGO [View🔗](https://github.com/hiruop/Lego-Sets)
 #### (Tableau)
 
 ![LEGO](assests/img/lego.png)
@@ -61,39 +61,39 @@
 
 
 ### Mortgage Rate Predication (Capstone) [View🔗](https://github.com/hiruop/Housing-Affordibility-Capstone)
-#### (Python, Tableau, Excel, Machine Learning Frameworks, Streamlit)
+#### (Python, Tableau, Excel, Machine Learning Frameworks, Flask)
 
 ![Mortgage Rate](assests/img/mortgage.png)
 
-- To automate portfolio inspections and credit report generation, we created a credit score classification system. The data was properly cleansed using Python. Consumer credit history is used by machine learning algorithms to classify and forecast credit score categories (good, standard, and poor).
-- Through feature selection and engineering, scaling, and parameter optimization, improved model performance was achieved with 80% accuracy. Model and System deployed through the Streamlit app. 
-- As a result, financial organizations can generate substantial profits by providing loans to consumers with excellent credit, resulting in a quick and lucrative return on investment.  
+- To streamline mortgage rate predictions and enhance the process of assessing creditworthiness, we developed an innovative mortgage rate prediction system. Utilizing advanced techniques in data preprocessing and analysis, we harnessed the power of Python to cleanse and prepare the relevant financial data.
+- Employing a comprehensive approach that encompassed feature selection, skillful engineering, meticulous scaling, and precise parameter optimization, we succeeded in significantly elevating the performance of our predictive model. Our system boasts an impressive 80% accuracy in forecasting mortgage rate classifications. This model, seamlessly integrated into a user-friendly interface, is made accessible through our dynamic Flask app. 
+- The culmination of our efforts has empowered financial institutions to make well-informed decisions, resulting in substantial gains by offering mortgage loans to individuals  
 
 ### IMDB Sentiment Analysis [View🔗](https://github.com/hiruop/IMDB_Movies_NLP)
 #### (Python, Machine Learning Frameworks, Natural Language Toolkit)
 
 ![IMDB](assests/img/imdb.png)
 
-- A TensorFlow-based emotional analyzer was built to determine the feelings shared on Twitter (whether good or negative).
-- For the text on Twitter, tokenization and the erasure of individual words were utilized. Following the completion of the model training, I used assessment metrics to evaluate the performance of the model with 70% prediction accuracy.
-- Businesses can learn how people feel about a subject, which will assist them in making decisions.
+- We engineered an emotion analysis framework using TensorFlow, specifically tailored to decipher sentiments expressed in IMDB movie reviews – discerning between positive and negative tones.
+- Through a process of meticulous tokenization and judicious elimination of superfluous verbiage, we refined the corpus of IMDB movie reviews. This paved the way for intensive model training, culminating in a rigorous evaluation involving a spectrum of performance metrics. The outcome of our endeavor is a model boasting a commendable 70% predictive accuracy, proficiently discerning the emotional undercurrents interwoven into the realm of movie critiques.
+- Incorporating this technological innovation equips enterprises with a formidable instrument for gleaning profound insights into the collective emotional landscape that enshrouds diverse cinematic offerings. Armed with these nuanced perspectives, businesses can wield their newfound knowledge to orchestrate strategic decisions and actions that align seamlessly with the dynamic pulse of audience sentiment within the realm of IMDB movie reviews.
 
 ### Brain Stroke Prediction [View🔗](https://github.com/hiruop/Brain-Stroke-Analysis)
 #### (Python, Machine Learning Frameworks, Excel, Flask, Tableau)
 
 ![Brain](assests/img/brain.png)
 
-- Developed a predictive tool to assist healthcare providers in identifying individuals at high risk for heart failure and initiating preventative measures to steer clear of negative results.
-- It was determined using EDA, Data Visualization, and ML which factors contribute to cardiac failure. deployed the model with 81% accuracy and integrated it with Flask to create a web application.
+- Engineered a cutting-edge predictive solution geared towards aiding healthcare practitioners in the early detection of individuals susceptible to brain strokes, facilitating proactive interventions to avert adverse outcomes.
+- Leveraging a robust blend of Exploratory Data Analysis (EDA), dynamic Data Visualization techniques, and advanced Machine Learning algorithms, we methodically identified pivotal factors predisposing individuals to brain strokes. Rigorous model development ensued, culminating in an impressive 81% accuracy in prognosis.
 
 ### Customer Churn Analysis (Storytelling) [View🔗](https://github.com/hiruop/CustomerChurn)
 #### (PowerBI, PowerPoint)
 
 ![Customer Churn](assests/img/churn.png)
 
-- After conducting a visual study of the incident, we moved on to identifying the underlying reason or causes of the event.
-- Tableau was used to create data visualizations that are both visually appealing and easily accessible, and they were applied to the dataset that was provided.
-- To prevent future mishaps, it is important to identify injury patterns, different types of ejections, contributing factors, whether the victim is still alive, and any other pertinent information. 
+- We embarked on a transformative journey in customer management through the deployment of a sophisticated Customer Churn Analysis system, harnessed within the dynamic realm of Power BI.
+- Employing an intricate tapestry of data manipulation and visualization techniques, we meticulously dissected customer behaviors, exploring the intricate patterns that foretell churn. By delving into the depths of our data using Power BI's intuitive interface, we unearthed critical insights that shape customer retention strategies.
+- Our endeavor culminated in an intuitive dashboard that paints a comprehensive picture of customer churn trends, highlighting red flags and opportunities alike. Through the synergy of advanced analytics and the visually immersive Power BI platform, businesses are now empowered to forecast and address customer attrition proactively. 
 
 ### Study of Ethics for Data Product (Survey Analysis) 
 #### (Microsoft Forms, SQL, Excel, Tableau)
@@ -108,15 +108,13 @@
 
 ![JP Morgan & Chase](assests/img/J.P.-Morgan-Chase-Logo-2000.png)
 
-- Project focuses on studying the expenses of luxury automobiles. The dataset includes specifications of luxury cars, their insurance risk ratings, and normalized losses compared to other vehicles.
-- Developed a precise business model that determines luxury car prices based on their features. Additionally, analyzed how various attributes influence car prices, providing data-driven insights to aid managers in making informed decisions.
-- This will aid managers in making data-driven decisions.
+- By employing Python's robust libraries and frameworks, we delved deep into vast datasets, extracting valuable nuggets of information that informed our decision-making process. Our analytical journey encompassed intricate data preprocessing, feature engineering, and advanced statistical modeling, all seamlessly orchestrated through Python's elegant syntax.
+- Through this meticulous process, we unraveled trends, patterns, and hidden correlations that drive the financial landscape. Whether optimizing investment portfolios, gauging risk exposures, or enhancing customer experiences, Python emerged as our trusted ally in distilling complex financial data into actionable insights.
 
-### Kaggel Dataset Survey Analysis 2017 [View🔗](https://github.com/hiruop/Tableau-The-Kaggle-Dataset-Survey-2017)
+### Kaggle Dataset Survey Analysis 2017 [View🔗](https://github.com/hiruop/Tableau-The-Kaggle-Dataset-Survey-2017)
 #### (Excel, Tableau)
 
 ![Kaggle](assests/img/Kaggle_logo.png)
 
-- This project investigates user reviews of Google Play store games to identify popular games with strong user support and how the pricing of such games impacts their sales enables the company to adjust its service offerings accordingly.
-- Analyzed each game category with pricing's impact on game sales, enabling adjustments to service offerings.
-- The findings benefit users in discovering top-quality games and programmers in enhancing app performance.
+- Embarking on a visual journey through the Kaggle Dataset Survey of 2017, we harnessed the power of Tableau to uncover profound insights within the realm of data science and analytics.
+- Our analysis traversed a diverse landscape, encapsulating responses from thousands of survey participants. Through interactive visualizations, we unraveled the demographics of the data science community, charting the geographical distribution of practitioners, their educational backgrounds, and the industries they influence.
