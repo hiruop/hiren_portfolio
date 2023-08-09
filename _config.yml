@@ -1,3 +1,4 @@
+---
 title :  HIREN PATEL
 logo : /assests/img/hiren1.PNG
 description : Data Analyst | Data Engineer 
@@ -5,7 +6,13 @@ theme: jekyll-theme-minimal
 show_downloads: false
 hide_downloads : true
 download_rmd: false
-style: |
-  .title {
-    margin-right: 20px; /* Adjust the value as needed */
-  }
+---
+<style>
+.logo {
+  margin-left: 20px;
+}
+</style>
+
+<div class="logo">
+  <img src="/assets/img/hiren.PNG" alt="Logo">
+</div>
