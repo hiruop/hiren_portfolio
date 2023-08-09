@@ -6,6 +6,6 @@ show_downloads: false
 hide_downloads : true
 download_rmd: false
 style: |
-  .logo {
-    margin-left: 20px; /* Adjust the value as needed */
+  .title {
+    margin-right: 20px; /* Adjust the value as needed */
   }
