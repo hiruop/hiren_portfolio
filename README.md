@@ -1,7 +1,7 @@
 ### Contact Me
 +1 343-867-8687 | hiren.dantali@gmail.com
 
-[![LinkedIn](assests/img/linkedin.png)](https://www.linkedin.com/in/hiruop/) [![LGitHub](assests/img/github.png)](https://github.com/hiruop) [![Resume](assests/img/resume.png)](https://gentallman.github.io/smit_portfolio/smit_rana_resume.pdf) [![Transcript](assests/img/transcript.png)](https://gentallman.github.io/smit_portfolio/Transcript.pdf)
+[![LinkedIn](assests/img/linkedin.png)](https://www.linkedin.com/in/hiruop/) [![LGitHub](assests/img/github.png)](https://github.com/hiruop) [![Resume](assests/img/resume.png)](https://hiruop.github.io/hiren_portfolio/Hiren_Patel_ResumeDA.pdf) [![Transcript](assests/img/transcript.png)](https://hiruop.github.io/hiren_portfolio/Transcript.pdf)
 
 
 ## Technical Skills
